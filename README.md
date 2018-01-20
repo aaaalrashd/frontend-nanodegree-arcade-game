@@ -1,4 +1,4 @@
-frontend-nanodegree-arcade-game V.2 20/01/2018
+<h1> frontend-nanodegree-arcade-game V.2 20/01/2018 </h1>
 ===============================
 
 <p> this is my 5th projct for frontend nanodegree and you can test yourself if you know Javascript from <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" >here</a></p>
@@ -30,4 +30,4 @@ you can move by arrows or  "A,W,D,S"
 </ul>
 
 ================================
-frontend-nanodegree-arcade-game V.2 20/01/2018
+<p>frontend-nanodegree-arcade-game V.2 20/01/2018</p>
