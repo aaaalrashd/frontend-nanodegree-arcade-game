@@ -4,7 +4,7 @@ frontend-nanodegree-arcade-game V.2 20/01/2018
 <p> this is my 5th projct for frontend nanodegree and you can test yourself if you know Javascript from <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" >here</a></p>
 
 <h1> Installation </h1>
-<p> Clone the file or download it for your computer ad runnig it prees<a href="https://github.com/aaaalrashd/frontend-nanodegree-arcade-game" >here</a> </p>
+<p> Clone the file or download it for your computer ad runnig it prees <a href="https://github.com/aaaalrashd/frontend-nanodegree-arcade-game" >here</a> </p>
 <hr>
 <h1> Requried Things </h1>
 
@@ -23,9 +23,11 @@ you can move by arrows or  "A,W,D,S"
 <hr>
 <h1> Contact </h1>
 <p>Can you contact with me</p>
-Email: aaaalrashd@gmail.com
-Mobile : +966561113041
-Github: aaaalrashd
+<ul>
+<li>Email: aaaalrashd@gmail.com</li>
+<li>Mobile : +966561113041</li>
+<li>Github: aaaalrashd</li>
+</ul>
 
 ================================
 frontend-nanodegree-arcade-game V.2 20/01/2018
