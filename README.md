@@ -1,6 +1,7 @@
-<h1> frontend-nanodegree-arcade-game V.2 20/01/2018 </h1>
-===============================
+<h1> frontend-nanodegree-arcade-game V.2 20/01/2018<br>
+===============================</h1>
 
+<h1> Introduction </h1>
 <p> this is my 5th projct for frontend nanodegree and you can test yourself if you know Javascript from <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" >here</a></p>
 
 <h1> Installation </h1>
