@@ -4,6 +4,11 @@
  * a simple "caching" layer so it will reuse cached images if you attempt
  * to load the same image multiple times.
  */
+var sounds = [
+    new Audio('audio/bye-bye-5.wav'),
+    new Audio('audio/Win.mp3'),
+    new Audio('audio/you-can-do-it.wav'),
+];
 (function() {
     var resourceCache = {};
     var loading = [];
